@@ -12,7 +12,7 @@ function App() {
           <h1>HI</h1>
           <h1>HIj</h1>
           <h1>yess</h1>
-          <h1>no</h1>
+
         </p>
         <a
           className="App-link"
